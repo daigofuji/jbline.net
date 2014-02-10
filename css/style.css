@@ -1,0 +1,53 @@
+	body {
+		background: url('../img/background.png') no-repeat center center fixed; 
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+		font-family: 'Lato', sans-serif;
+		}
+	h1, h2, h3, h4, h5, h6 {
+		font-family: 'Lato', sans-serif;
+		color:#666;
+	}
+	.accent {
+		color: #d42027;
+	}
+	header #site-title {
+			max-width:180px;
+		}
+		h1 {
+		}
+		h2{
+			text-shadow: 0px 2px 1px #fff;
+		}
+		h2.header-name {
+			margin:1.2em 0 .2em; 
+		}
+			h2.header-name span {
+				color: #d42027;				
+			}
+		h2.header-phone {
+			margin:.7em 0 0; 
+ 			color: #d42027;
+
+		}
+
+		.lang-ja {
+			color:#888;
+			font-size:.8em;
+		} 
+		h3, h4 {
+			text-shadow: 0px 1px 1px #fff;
+			/* color:#999; */
+		}
+
+		.list-indent li {
+			margin-left:1em;
+		}
+	footer {
+		color: #666;
+		}
+		.quiet {
+			font-size:.8em;
+		}
